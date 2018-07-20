@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.logo{
+	display:block ;
+	margin:0px auto;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.text{
+	text-align: center;
+	padding-bottom: 50px;
+}
+.text img{
+	display:inline ;
+}
+.info1{
+	display:block ;
+	margin:0 auto;
+}
